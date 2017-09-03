@@ -1,0 +1,5 @@
+{
+    "require": {
+        "6by6/freeagent-php": "dev-master"
+    }
+}
